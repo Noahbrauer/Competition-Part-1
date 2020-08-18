@@ -1,4 +1,4 @@
-# Linear-Regression-ML
+# Competition-Part-1
 Competition Part 1 - Machine Learning Fall 2019
 
 
